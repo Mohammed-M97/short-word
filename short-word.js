@@ -10,4 +10,4 @@ let smallWord = (str) => {
     return smallArr.length
 }
 
-console.log(smallWord("Let's travel abroad shall we"));git
+console.log(smallWord("Let's travel abroad shall we"));
